@@ -1,13 +1,16 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=ReUseHub&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Campus%20Material%20Reuse%20Platform&descSize=22&descAlignY=58" alt="ReUseHub banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=ReUseHub&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Campus%20Material%20Reuse%20Platform&descSize=22&descAlignY=58" alt="ReUseHub banner" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME/reusehub">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=760&height=60&lines=Give+it+a+second+life+%E2%99%BB%EF%B8%8F;Zero+money.+Zero+waste.+100%25+campus.;Textbooks+%C2%B7+Lab+kits+%C2%B7+Electronics+%C2%B7+Furniture;Track+real+kg+saved+and+%E2%82%B9+saved+in+real+time" alt="Typing animation" />
 </a>
 
 <br/>
+
+<img src="assets/recycle-loop.svg" alt="Animated orbit of reusable campus items around a recycle symbol" width="720"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
@@ -19,41 +22,42 @@
 
 <br/><br/>
 
-**[🚀 Live Demo](#-live-demo)** &nbsp;•&nbsp;
-**[✨ Features](#-key-features)** &nbsp;•&nbsp;
-**[⚡ Quick Start](#-quick-start)** &nbsp;•&nbsp;
-**[🏗️ Architecture](#%EF%B8%8F-architecture)** &nbsp;•&nbsp;
-**[🚢 Deploy](#-deployment)**
+<a href="#live-demo"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" height="20" alt="🚀"/> <b>Live Demo</b></a> &nbsp;•&nbsp;
+<a href="#key-features"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="20" height="20" alt="✨"/> <b>Features</b></a> &nbsp;•&nbsp;
+<a href="#quick-start"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="20" height="20" alt="⚡"/> <b>Quick Start</b></a> &nbsp;•&nbsp;
+<a href="#architecture"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7_fe0f/512.gif" width="20" height="20" alt="🏗️"/> <b>Architecture</b></a> &nbsp;•&nbsp;
+<a href="#deployment"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a2/512.gif" width="20" height="20" alt="🚢"/> <b>Deploy</b></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 </div>
 
-## 🌍 Overview
+<a id="overview"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="34" height="34" alt="🌍"/> Overview
 
 Every semester, thousands of textbooks, microcontrollers, scientific calculators, drawing boards, and dorm supplies are abandoned on campuses across the country. **ReUseHub** turns that waste into a verified, student-run circular economy.
 
 <table>
 <tr>
 <td width="25%" align="center">
-<h3>💸</h3>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="56" height="56" alt="💸"/><br/>
 <b>Zero Money</b><br/>
 <sub>100% free peer-to-peer sharing. No payments, ever.</sub>
 </td>
 <td width="25%" align="center">
-<h3>🔐</h3>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.gif" width="56" height="56" alt="🔐"/><br/>
 <b>Verified Campus</b><br/>
 <sub>Institutional email allow-listing blocks outsiders.</sub>
 </td>
 <td width="25%" align="center">
-<h3>🤝</h3>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="56" height="56" alt="🤝"/><br/>
 <b>Dual Handover</b><br/>
 <sub>Giver and taker both confirm at a known campus spot.</sub>
 </td>
 <td width="25%" align="center">
-<h3>📊</h3>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="56" height="56" alt="📊"/><br/>
 <b>Live Impact</b><br/>
 <sub>Landfill kg avoided and INR saved, tracked in real time.</sub>
 </td>
@@ -64,18 +68,21 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 
 <div align="center">
 
-### 📈 Impact at a Glance
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="30" height="30" alt="📈"/> Impact at a Glance
 
 <img src="https://img.shields.io/badge/♻️%20Items%20Reused-Live-10B981?style=for-the-badge&labelColor=064E3B" alt="Items reused"/>
 <img src="https://img.shields.io/badge/🌱%20Waste%20Diverted-kg%20Tracked-84CC16?style=for-the-badge&labelColor=365314" alt="Waste diverted"/>
 <img src="https://img.shields.io/badge/💰%20Student%20Savings-INR%20Tracked-F59E0B?style=for-the-badge&labelColor=78350F" alt="Savings"/>
 <img src="https://img.shields.io/badge/🏆%20Dept%20Leaderboard-Ranked-6366F1?style=for-the-badge&labelColor=312E81" alt="Leaderboard"/>
 
+<br/><br/>
+
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+
 </div>
 
----
-
-## 🚀 Live Demo
+<a id="live-demo"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" height="34" alt="🚀"/> Live Demo
 
 > **No backend required.** Leave `VITE_SUPABASE_URL` empty and ReUseHub boots in **Instant Demo Mode** with 30 seeded items, 8 departments, 6 categories, and 3 one-click demo accounts.
 
@@ -85,12 +92,19 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 | 🎬 **Demo login** | Click any demo account on the login modal |
 | 📱 **Install as app** | Open on mobile → *Add to Home Screen* |
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## ✨ Key Features
+<a id="key-features"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" height="34" alt="✨"/> Key Features
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=List+an+item+in+under+30+seconds;Chat+with+the+taker+in+realtime;Handover+with+a+QR+scan+%2B+confetti+%F0%9F%8E%89;Get+alerted+when+your+wishlist+item+appears" alt="Feature typing animation"/>
+</div>
 
 <details open>
-<summary><b>📦 Material Listings & Discovery</b></summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e6/512.gif" width="22" height="22" alt="📦"/> <b>Material Listings & Discovery</b></summary>
 <br/>
 
 - **Multi-step listing flow**: title, description, category, department, condition (`New` · `Like New` · `Good` · `Fair`), quantity, and safe campus pickup spot.
@@ -101,7 +115,7 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 </details>
 
 <details open>
-<summary><b>🤝 Request & Handover Protocol</b></summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="22" height="22" alt="🤝"/> <b>Request & Handover Protocol</b></summary>
 <br/>
 
 - **Request flow** with an intended-use message from requester to owner.
@@ -115,9 +129,9 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 </details>
 
 <details open>
-<summary><b>📊 Campus Sustainability & Impact</b></summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="22" height="22" alt="📊"/> <b>Campus Sustainability & Impact</b></summary>
 <br/>
- 
+
 - **Live impact ticker**: items given a second life, kilograms diverted, INR saved.
 - **Department leaderboard** ranking circularity across colleges and departments.
 - **Circularity badges**: unlock *Zero Waste Pioneer*, *Verified Member*, *Eco Champion*, *Campus Benefactor*, and *Super Recirculator*.
@@ -126,7 +140,7 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 </details>
 
 <details open>
-<summary><b>🎨 Design & Experience</b></summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" width="22" height="22" alt="🎨"/> <b>Design & Experience</b></summary>
 <br/>
 
 - Design language inspired by **Linear, Airbnb, and Notion**: clean, airy, trustworthy.
@@ -138,9 +152,18 @@ Every semester, thousands of textbooks, microcontrollers, scientific calculators
 
 </details>
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## 🔄 How It Works
+<a id="how-it-works"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/267b_fe0f/512.gif" width="34" height="34" alt="♻️"/> How It Works
+
+<div align="center">
+<img src="assets/handover-flow.svg" width="900" alt="Animated handover flow: list, request, approve, meet and confirm, reused"/>
+</div>
+
+<br/>
 
 ```mermaid
 flowchart LR
@@ -173,9 +196,12 @@ stateDiagram-v2
     reused --> [*]
 ```
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## 🛠️ Tech Stack
+<a id="tech-stack"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="34" height="34" alt="🛠️"/> Tech Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -191,7 +217,7 @@ stateDiagram-v2
 
 ---
 
-## 👥 User Roles & Security
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" width="34" height="34" alt="🔒"/> User Roles & Security
 
 | Role | Permissions |
 | :--- | :--- |
@@ -202,9 +228,16 @@ stateDiagram-v2
 > 🔒 **Row Level Security** is enforced at the Postgres level: users can only modify their own listings and requests.
 > 🏫 **Domain gate** via `VITE_COLLEGE_ALLOWED_DOMAINS` prevents external signups.
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## ⚡ Quick Start
+<a id="quick-start"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="34" height="34" alt="⚡"/> Quick Start
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=34D399&background=0F172A&center=true&vCenter=true&width=620&height=70&lines=%24+cd+reusehub;%24+npm+install;%24+cp+.env.example+.env;%24+npm+run+dev;%E2%9C%94+Ready+on+http%3A%2F%2Flocalhost%3A5173+%F0%9F%8E%89" alt="Terminal typing animation"/>
+</div>
 
 ### Prerequisites
 
@@ -262,7 +295,7 @@ VITE_ENABLE_DEMO_ACCOUNTS=true
 
 ---
 
-## ⚡ Built-In Demo Accounts
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" height="34" alt="🔥"/> Built-In Demo Accounts
 
 One-click login from the login modal and nav menu:
 
@@ -272,9 +305,12 @@ One-click login from the login modal and nav menu:
 | 🔬 **Faculty** | Dr. Aris Thorne | `faculty` | Physics & Material Sciences | **Taker**: requests lab components for student projects. |
 | 🛡️ **Admin** | Rajesh Verma | `admin` | Sustainability Office | **Governance**: admin console, moderation queue, CSV export. |
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## 🏗️ Architecture
+<a id="architecture"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d7_fe0f/512.gif" width="34" height="34" alt="🏗️"/> Architecture
 
 <details>
 <summary><b>📁 Project structure (click to expand)</b></summary>
@@ -307,6 +343,8 @@ reusehub/
 ├── supabase/
 │   ├── migrations/20240101000000_init_schema.sql   # DDL, RLS, FTS, triggers
 │   └── seed.sql                # Categories, departments, demo users, items
+├── assets/                     # Animated README SVGs
+├── .github/workflows/snake.yml # Contribution snake generator
 ├── .env.example
 ├── tailwind.config.js
 ├── vite.config.ts
@@ -376,9 +414,12 @@ When both `giver_confirmed` and `taker_confirmed` become `true`, a PostgreSQL tr
 3. Sets `items.status = 'reused'`
 4. Sends completion notifications to both parties
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## 📈 Environmental & Economic Calculations
+<a id="impact-math"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="34" height="34" alt="🌱"/> Environmental & Economic Calculations
 
 Every completed reuse logs measurable savings:
 
@@ -387,6 +428,12 @@ $$\text{Landfill Waste Avoided (kg)} = \sum (\text{item.quantity} \times \text{c
 $$\text{Student INR Saved} = \sum (\text{item.quantity} \times \text{category.avg\_value\_inr})$$
 
 ### Calibrated Category Benchmarks
+
+<div align="center">
+<img src="assets/impact-bars.svg" width="900" alt="Animated bar chart of average value saved and landfill weight avoided per category"/>
+</div>
+
+<br/>
 
 | Category | ⚖️ Avg Weight | 💰 Avg Value |
 | :--- | :---: | :---: |
@@ -397,9 +444,12 @@ $$\text{Student INR Saved} = \sum (\text{item.quantity} \times \text{category.av
 | 🛏️ Dorm & Campus Furniture | 4.8 kg | ₹1,800 |
 | ⚽ Sports & Miscellaneous | 1.6 kg | ₹950 |
 
----
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
-## 🚢 Deployment
+<a id="deployment"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a2/512.gif" width="34" height="34" alt="🚢"/> Deployment
 
 ### ▲ Vercel (Frontend)
 
@@ -425,7 +475,7 @@ $$\text{Student INR Saved} = \sum (\text{item.quantity} \times \text{category.av
 
 ---
 
-## 🗺️ Roadmap & Features
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5fa_fe0f/512.gif" width="34" height="34" alt="🗺️"/> Roadmap & Features
 
 - [x] Listings, requests, dual-confirmation handovers
 - [x] Impact tracking and department leaderboard
@@ -439,9 +489,27 @@ $$\text{Student INR Saved} = \sum (\text{item.quantity} \times \text{category.av
 - [ ] Push notifications for native OS integration
 - [ ] Multi-campus consortium federation
 
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+</div>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="34" height="34" alt="🐍"/> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/reusehub/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/reusehub/output/github-snake.svg"/>
+  <img alt="Contribution snake eating commits" src="https://raw.githubusercontent.com/YOUR_USERNAME/reusehub/output/github-snake.svg" width="100%"/>
+</picture>
+
+<sub>Generated automatically by <code>.github/workflows/snake.yml</code>. Run the workflow once to create the <code>output</code> branch.</sub>
+
+</div>
+
 ---
 
-## 🤝 Contributing
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="34" height="34" alt="🤝"/> Contributing
 
 Contributions are welcome!
 
@@ -455,7 +523,7 @@ Then open a Pull Request. Please run `npm run test` before submitting.
 
 ---
 
-## 📄 License
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c4/512.gif" width="34" height="34" alt="📄"/> License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
@@ -463,21 +531,24 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Reduce.+Reuse.+Recirculate.+%E2%99%BB%EF%B8%8F;Built+with+%E2%9D%A4%EF%B8%8F+for+zero-waste+campuses" alt="Footer typing animation" />
+<a href="https://github.com/YOUR_USERNAME/reusehub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=reusehub&theme=tokyonight&hide_border=true&border_radius=16" alt="Repo card"/>
+</a>
+
+<br/><br/>
+
+<a href="https://star-history.com/#YOUR_USERNAME/reusehub&Date">
+  <img src="https://api.star-history.com/svg?repos=YOUR_USERNAME/reusehub&type=Date&theme=dark" alt="Star history" width="600"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Reduce.+Reuse.+Recirculate.+%E2%99%BB%EF%B8%8F;Built+with+%E2%9D%A4%EF%B8%8F+for+zero-waste+campuses" alt="Footer typing animation"/>
 
 <br/>
 
-⭐ **If ReUseHub helps your campus, give it a star!** ⭐
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="26" height="26" alt="⭐"/> **If ReUseHub helps your campus, give it a star!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="26" height="26" alt="⭐"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer" alt="footer wave" width="100%"/>
 
-</div>#   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- #   R e U s e H u b  
- 
+</div>
